@@ -1,4 +1,4 @@
-Time,Exhaust gas temperature in front of the DPF  C,Soot mass in DPF g,Exhaust gas temperature upstream of the catalyst - corrected value  C,Oil ash mass in DPF g,Differential pressure across DPF bar,Operating time since last successful regeneration,Regeneration locked,Regeneration requested
+Time,Exhaust gas temperature in front of the DPF ° C,Soot mass in DPF g,Exhaust gas temperature upstream of the catalyst - corrected value ° C,Oil ash mass in DPF g,Differential pressure across DPF bar,Operating time since last successful regeneration,Regeneration locked,Regeneration requested
 0.0000,614.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
 0.0000,614.00,31.01,0.00,0.00,0.00,0.00,0.00,0.00
 0.0000,614.00,31.01,488.00,0.00,0.00,0.00,0.00,0.00
