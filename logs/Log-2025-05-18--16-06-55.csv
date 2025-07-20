@@ -1,4 +1,4 @@
-Time,Coolant temperature  C,Exhaust gas temperature in front of the DPF  C,Engine oil temperature C,Boost pressure bar,Soot mass in DPF g,Regeneration requested,Engine speed rpm,Differential pressure across DPF bar,Regeneration locked,Oil ash mass in DPF g,Operating time since last successful regeneration,Remaining distance of the DPF km
+Time,Coolant temperature ° C,Exhaust gas temperature in front of the DPF ° C,Engine oil temperature C,Boost pressure bar,Soot mass in DPF g,Regeneration requested,Engine speed rpm,Differential pressure across DPF bar,Regeneration locked,Oil ash mass in DPF g,Operating time since last successful regeneration,Remaining distance of the DPF km
 0.0000,87.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
 0.0000,87.00,183.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
 0.0000,87.00,183.00,85.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
